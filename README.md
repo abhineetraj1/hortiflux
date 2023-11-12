@@ -57,4 +57,4 @@ You can now monitor the temperature, humidity, moisture, and storage usage data 
 ## Developer
 *   [Abhineet Raj](https://github.com/abhineetraj1) - Backend development (raspberry pi and flutter app)
 *   [Rishi Banerjee](https://github.com/QwertyFusion) - Frontend development (figma and presentation)
-*   [Gunish Mukherjee](https://github.com/morphine09) - Research and Development (ideation and product management)
+*   [Gunish Mukherji](https://github.com/morphine09) - Research and Development (ideation and product management)
